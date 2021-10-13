@@ -21,3 +21,4 @@ while True:
     except:
         print('Please, enter the correct value.')
 
+input()
